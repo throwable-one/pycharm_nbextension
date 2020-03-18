@@ -1,0 +1,8 @@
+Type: Jupyter Notebook Extension
+Compatibility: 6.x
+Name: pycharm_nbextension
+Main: pycharm_nbextension.js
+Description: |
+  Do All
+Parameters:
+  - none
